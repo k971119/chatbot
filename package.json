@@ -1,0 +1,18 @@
+{
+  "name": "managerbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ManagerBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "node-gyp": "^6.1.0",
+    "npm": "^6.13.6",
+    "opusscript": "0.0.7"
+  }
+}
